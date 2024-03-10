@@ -67,7 +67,7 @@ const SignIn = () => {
 
   return (
     <div className='max-w-xl p-5 mx-auto' >
-          <h1 className='text-2xl text-center font-bold my-7' >SignIn </h1>
+          <h1 className='text-2xl text-center font-bold my-7' >SignIn app </h1>
          
           <form onSubmit={handelSubmit} className='flex flex-col gap-4' >
                <input type='text' placeholder='email' 
